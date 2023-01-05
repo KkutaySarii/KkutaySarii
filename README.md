@@ -34,10 +34,17 @@
 <p align="center">
 
 - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+	<br>
+    <a href="https://devdocs.io/c/" target="blank"><img align="center" src="	https://w7.pngwing.com/pngs/724/306/png-transparen…uage-icon-letter-c-blue-logo-computer-program.png" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+    <a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+	
 	
 
 <br>   
