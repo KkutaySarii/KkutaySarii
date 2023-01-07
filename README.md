@@ -18,11 +18,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Front-end developer
+- Currently learning Web Development and Blockchain Technology
+- I'm a developer in the YTU Blockchain Community
+- I also work as a developer at Akbank.
 
 <br><br>
 
