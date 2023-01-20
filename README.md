@@ -18,10 +18,9 @@
 
 <br>
 
-- A passionate Front-end developer
-- Currently learning Web Development and Blockchain Technology
+- I'm currently learning Rust, React.js, Next.js and Blockchain Technology
 - I'm a developer in the YTU Blockchain Community
-- I also work as a developer at Akbank.
+- I also work as a developer at Akbank
 
 <br><br>
 
@@ -33,12 +32,13 @@
 <p align="center">
 
 - **Languages**:
-	<br>
-    <a href="https://devdocs.io/c/" target="blank"><img align="center" src="https://img.icons8.com/color/512/c-programming.png" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.python.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.java.com/tr/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="kutaysari" height="30" width="40" /></a>
+	
+    <a href="https://devdocs.io/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/c.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://www.python.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/python.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://www.java.com/tr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/java.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/rust.svg" alt="kutaysari" height="30" width="40" /></a>
 	
 	
 	
@@ -47,20 +47,24 @@
     
 - **Front-End Development**:
 
-   <a href="https://tr.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://tr.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://nextjs.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Next.js_Logotype_Light_Background.svg" alt="kutaysari" height="30" width="40" /></a>
-    <a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="kutaysari" height="30" width="40" /></a>
+   <a href="https://tr.wikipedia.org/wiki/HTML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/html.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://tr.wikipedia.org/wiki/CSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/css.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://reactjs.org/tutorial/tutorial.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/reactjs.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://redux-toolkit.js.org/tutorials/quick-start" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/redux.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://tailwindcss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/FrontendDevelopment/tailwind.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://nextjs.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/StaticSiteGenerators/nextjs.svg" alt="kutaysari" height="30" width="40" /></a>
+    
 
 <br>
 
 
 - **Softwares and Tools**:
 	
-	<a href="https://git-scm.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://github.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://git-scm.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/git.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://github.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="kutaysari" height="30" width="40" /></a>
 	<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.linux.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/linux.svg" alt="kutaysari" height="30" width="40" /></a>
+	<a href="https://flask.palletsprojects.com/en/2.2.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Framework/flask.svg" alt="kutaysari" height="30" width="40" /></a>
 
 
 
@@ -88,7 +92,12 @@
 <div align='left'>
 
 <ul>
-
+	<li>
+<a href="mailto:h.kutay.1@gmail.com" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="kutaysari" height="24" width="36">
+</a>
+</li>
+<br>
 <li>
 <a href="https://www.linkedin.com/in/hasan-kutay-sar%C4%B1-0a5048223/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kutaysari" height="30" width="40">
@@ -99,17 +108,23 @@
 
 <li>
 <a href="https://twitter.com/KutaySar7" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="kutaysari" height="30" width="40">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/twitter.svg" alt="kutaysari" height="30" width="40">
 </a>
 </li>
 
 <br>
-
 <li>
-<a href="mailto:h.kutay.1@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="kutaysari" height="30" width="40">
+<a href="https://www.instagram.com/kutaaysari" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="kutaysari" height="30" width="40">
 </a>
 </li>
+	<br>
+	<li>
+<a href="https://discordapp.com/users/325229060332716033" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg" alt="kutaysari" height="30" width="40">
+</a>
+</li>
+
 	
 </ul>
 </div>
