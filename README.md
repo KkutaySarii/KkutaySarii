@@ -114,7 +114,14 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg" alt="kutaysari" height="30" width="40">
 </a>
 </li>
-
+<li>
+		
+<a href="https://www.hackerrank.com/h_kutay_1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40"></a>
+</li>
+<li>
+		
+<a href="https://leetcode.com/kutaysari"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/leet-code.svg" alt="hackerrank" height="30" width="40"></a>
+</li>
 	
 </ul>
 </div>
