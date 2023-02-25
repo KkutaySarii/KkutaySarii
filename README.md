@@ -19,7 +19,7 @@
 <br>
 
 - I'm currently learning Rust, React.js, Next.js and Blockchain Technology
-- I'm a developer in the YTU Blockchain Community
+- I'm a developer in the Yıldız Blockchain Community
 - I also work as a developer at Akbank
 
 <br><br>
@@ -35,7 +35,6 @@
 	
     <a href="https://devdocs.io/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/c.svg" alt="kutaysari" height="30" width="40" /></a>
 	<a href="https://www.python.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/python.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.java.com/tr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/java.svg" alt="kutaysari" height="30" width="40" /></a>
 	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/javascript.svg" alt="kutaysari" height="30" width="40" /></a>
 	<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/typescript.svg" alt="kutaysari" height="30" width="40" /></a>
 	<a href="https://www.rust-lang.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/ProgrammingLanguages/rust.svg" alt="kutaysari" height="30" width="40" /></a>
@@ -56,16 +55,6 @@
     
 
 <br>
-
-
-- **Softwares and Tools**:
-	
-	<a href="https://git-scm.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/git.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://github.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Other/linux.svg" alt="kutaysari" height="30" width="40" /></a>
-	<a href="https://flask.palletsprojects.com/en/2.2.x/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Framework/flask.svg" alt="kutaysari" height="30" width="40" /></a>
-
 
 
 
