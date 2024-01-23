@@ -20,7 +20,7 @@
 
 - I'm currently learning Rust, React.js, Next.js and Blockchain Technology
 - I'm a developer in the Yıldız Blockchain Community
-- I also work as a developer at Akbank
+- I'm the co-founder of a blockchain technologies startup called Chainfy.
 
 <br><br>
 
